@@ -1,4 +1,0 @@
-# 파일명: packages.txt
-
-libxml2-dev
-libxslt-dev
