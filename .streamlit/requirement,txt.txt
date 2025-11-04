@@ -1,0 +1,8 @@
+# 파일명: requirements.txt
+
+streamlit
+requests
+pandas==1.5.3  # 호환성 강화를 위해 구버전 지정
+numpy==1.24.4  # 호환성 강화를 위해 구버전 지정
+yfinance
+setuptools
